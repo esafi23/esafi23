@@ -8,7 +8,7 @@ I build web and mobile apps with React, TypeScript and Firebase. At Safimind Lab
 - 💼 Previously: Full-Stack Developer intern at Collins O. Consulting (React.js, Firebase, ES6, HubL, CSS)
 - 🔭 Now: building client websites and AI assistants at Safimind Labs
 - 🤝 Open to **frontend / full-stack developer roles** in the Helsinki region
-- 🗣️ English, Finnish, Farsi, Dari, Pashto
+- 🗣️ English, Finnish, Farsi
 
 ## Tech stack
 
